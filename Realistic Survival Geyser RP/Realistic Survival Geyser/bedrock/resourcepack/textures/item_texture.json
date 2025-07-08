@@ -1,0 +1,174 @@
+{
+  "resource_pack_name": "geyser_mc_mappings",
+  "texture_data": {
+    "notreepunching.andesite_rock": {
+      "textures": "textures/item/notreepunching/andesite_rock"
+    },
+    "notreepunching.ceramic_water_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_water_bucket"
+    },
+    "notreepunching.ceramic_axolotl_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_axolotl_bucket"
+    },
+    "notreepunching.ceramic_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_bucket"
+    },
+    "notreepunching.ceramic_cod_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_cod_bucket"
+    },
+    "notreepunching.ceramic_lava_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_lava_bucket"
+    },
+    "notreepunching.ceramic_milk_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_milk_bucket"
+    },
+    "notreepunching.ceramic_powder_snow_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_powder_snow_bucket"
+    },
+    "notreepunching.ceramic_pufferfish_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_pufferfish_bucket"
+    },
+    "notreepunching.ceramic_salmon_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_salmon_bucket"
+    },
+    "notreepunching.ceramic_tadpole_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_tadpole_bucket"
+    },
+    "notreepunching.ceramic_tropical_fish_bucket": {
+      "textures": "textures/item/notreepunching/ceramic_tropical_fish_bucket"
+    },
+    "notreepunching.clay_brick": {
+      "textures": "textures/item/notreepunching/clay_brick"
+    },
+    "notreepunching.clay_bucket": {
+      "textures": "textures/item/notreepunching/clay_bucket"
+    },
+    "notreepunching.clay_flower_pot": {
+      "textures": "textures/item/notreepunching/clay_flower_pot"
+    },
+    "notreepunching.clay_tool": {
+      "textures": "textures/item/notreepunching/clay_tool"
+    },
+    "notreepunching.copper_axe": {
+      "textures": "textures/item/notreepunching/copper_axe"
+    },
+    "notreepunching.copper_boots": {
+      "textures": "textures/item/notreepunching/copper_boots"
+    },
+    "notreepunching.copper_chestplate": {
+      "textures": "textures/item/notreepunching/copper_chestplate"
+    },
+    "notreepunching.copper_helmet": {
+      "textures": "textures/item/notreepunching/copper_helmet"
+    },
+    "notreepunching.copper_hoe": {
+      "textures": "textures/item/notreepunching/copper_hoe"
+    },
+    "notreepunching.copper_knife": {
+      "textures": "textures/item/notreepunching/copper_knife"
+    },
+    "notreepunching.copper_leggings": {
+      "textures": "textures/item/notreepunching/copper_leggings"
+    },
+    "notreepunching.copper_mattock": {
+      "textures": "textures/item/notreepunching/copper_mattock"
+    },
+    "notreepunching.copper_pickaxe": {
+      "textures": "textures/item/notreepunching/copper_pickaxe"
+    },
+    "notreepunching.copper_saw": {
+      "textures": "textures/item/notreepunching/copper_saw"
+    },
+    "notreepunching.copper_shovel": {
+      "textures": "textures/item/notreepunching/copper_shovel"
+    },
+    "notreepunching.copper_sword": {
+      "textures": "textures/item/notreepunching/copper_sword"
+    },
+    "notreepunching.diamond_knife": {
+      "textures": "textures/item/notreepunching/diamond_knife"
+    },
+    "notreepunching.diamond_mattock": {
+      "textures": "textures/item/notreepunching/diamond_mattock"
+    },
+    "notreepunching.diamond_saw": {
+      "textures": "textures/item/notreepunching/diamond_saw"
+    },
+    "notreepunching.diorite_rock": {
+      "textures": "textures/item/notreepunching/diorite_rock"
+    },
+    "notreepunching.fire_starter": {
+      "textures": "textures/item/notreepunching/fire_starter"
+    },
+    "notreepunching.flint_knife": {
+    "textures": "textures/item/notreepunching/flint_knife"
+  },
+    "notreepunching.golden_mattock": {
+      "textures": "textures/item/notreepunching/golden_mattock"
+    },
+    "notreepunching.iron_saw": {
+      "textures": "textures/item/notreepunching/iron_saw"
+    },
+    "notreepunching.netherite_saw": {
+      "textures": "textures/item/notreepunching/netherite_saw"
+    },
+    "notreepunching.stone_rock": {
+      "textures": "textures/item/notreepunching/stone_rock"
+    },
+    "notreepunching.flint_pickaxe": {
+      "textures": "textures/item/notreepunching/flint_pickaxe"
+    },
+    "notreepunching.golden_saw": {
+      "textures": "textures/item/notreepunching/golden_saw"
+    },
+    "notreepunching.macuahuitl": {
+      "textures": "textures/item/notreepunching/macuahuitl"
+    },
+    "notreepunching.plant_fiber": {
+      "textures": "textures/item/notreepunching/plant_fiber"
+    },
+    "notreepunching.flint_shard": {
+      "textures": "textures/item/notreepunching/flint_shard"
+    },
+    "notreepunching.granite_rock": {
+      "textures": "textures/item/notreepunching/granite_rock"
+    },
+    "notreepunching.matchbox": {
+      "textures": "textures/item/notreepunching/matchbox"
+    },
+    "notreepunching.plant_string": {
+      "textures": "textures/item/notreepunching/plant_string"
+    },
+    "notreepunching.flint_hatchet": {
+      "textures": "textures/item/notreepunching/flint_hatchet"
+    },
+    "notreepunching.flint_hoe": {
+      "textures": "textures/item/notreepunching/flint_hoe"
+    },
+    "notreepunching.flint_shovel": {
+      "textures": "textures/item/notreepunching/flint_shovel"
+    },
+    "notreepunching.golden_knife": {
+      "textures": "textures/item/notreepunching/golden_knife"
+    },
+    "notreepunching.iron_knife": {
+      "textures": "textures/item/notreepunching/iron_knife"
+    },
+    "notreepunching.netherite_knife": {
+      "textures": "textures/item/notreepunching/netherite_knife"
+    },
+    "notreepunching.red_sandstone_rock": {
+      "textures": "textures/item/notreepunching/red_sandstone_rock"
+    },
+    "notreepunching.iron_mattock": {
+      "textures": "textures/item/notreepunching/iron_mattock"
+    },
+    "notreepunching.netherite_mattock": {
+      "textures": "textures/item/notreepunching/netherite_mattock"
+    },
+    "notreepunching.sandstone_rock": {
+      "textures": "textures/item/notreepunching/sandstone_rock"
+    }
+  },
+  "texture_name": "atlas.items"
+}

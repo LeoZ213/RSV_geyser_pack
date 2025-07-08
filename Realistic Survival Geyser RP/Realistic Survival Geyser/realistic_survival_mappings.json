@@ -1,0 +1,432 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:water_bucket": [
+      {
+          "type": "definition",
+          "model": "realisticsurvival:notreepunching/ceramic_water_bucket",
+          "bedrock_identifier": "notreepunching:ceramic_water_bucket", 
+          "display_name": "Ceramic Water Bucket"
+      }
+    ],
+    "minecraft:axolotl_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_axolotl_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_axolotl_bucket",
+        "display_name": "Ceramic Bucket of Axolotl"
+      }
+    ],
+    "minecraft:prismarine_shard": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/andesite_rock",
+        "bedrock_identifier": "notreepunching:andesite_rock",
+        "display_name": "Andesite Rock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/clay_brick",
+        "bedrock_identifier": "notreepunching:clay_brick",
+        "display_name": "Clay Brick"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/clay_bucket",
+        "bedrock_identifier": "notreepunching:clay_bucket",
+        "display_name": "Clay Bucket"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/clay_flower_pot",
+        "bedrock_identifier": "notreepunching:clay_flower_pot",
+        "display_name": "Clay Flower Pot"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/diorite_rock",
+        "bedrock_identifier": "notreepunching:diorite_rock",
+        "display_name": "Diorite Rock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/flint_shard",
+        "bedrock_identifier": "notreepunching:flint_shard",
+        "display_name": "Flint Shard"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/granite_rock",
+        "bedrock_identifier": "notreepunching:granite_rock",
+        "display_name": "Granite Rock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/red_sandstone_rock",
+        "bedrock_identifier": "notreepunching:red_sandstone_rock",
+        "display_name": "Red Sandstone Rock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/sandstone_rock",
+        "bedrock_identifier": "notreepunching:sandstone_rock",
+        "display_name": "Sandstone Rock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/stone_rock",
+        "bedrock_identifier": "notreepunching:stone_rock",
+        "display_name": "Stone Rock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/plant_fiber",
+        "bedrock_identifier": "notreepunching:plant_fiber",
+        "display_name": "Plant Fiber"
+      }      
+    ],
+    "minecraft:bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_bucket",
+        "display_name": "Ceramic Bucket"
+      }
+    ],
+    "minecraft:cod_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_cod_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_cod_bucket",
+        "display_name": "Ceramic Bucket of Cod"
+      }
+    ],
+    "minecraft:lava_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_lava_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_lava_bucket",
+        "display_name": "Ceramic Lava Bucket"
+      }
+    ],
+    "minecraft:milk_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_milk_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_milk_bucket",
+        "display_name": "Ceramic Milk Bucket"
+      }
+    ],
+    "minecraft:powder_snow_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_powder_snow_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_powder_snow_bucket",
+        "display_name": "Ceramic Powder Snow Bucket"
+      }
+    ],
+    "minecraft:pufferfish_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_pufferfish_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_pufferfish_bucket",
+        "display_name": "Ceramic Bucket of Pufferfish"
+      }
+    ],
+    "minecraft:salmon_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_salmon_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_salmon_bucket",
+        "display_name": "Ceramic Bucket of Salmon"
+      }      
+    ],
+    "minecraft:tadpole_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_tadpole_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_tadpole_bucket",
+        "display_name": "Ceramic Bucket of Tadpole"
+      }          
+    ],
+    "minecraft:tropical_fish_bucket": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/ceramic_tropical_fish_bucket",
+        "bedrock_identifier": "notreepunching:ceramic_tropical_fish_bucket",
+        "display_name": "Ceramic Bucket of Tropical Fish"
+      }       
+    ],
+    "minecraft:wooden_axe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/clay_tool",
+        "bedrock_identifier": "notreepunching:clay_tool",
+        "display_name": "Clay Tool"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/fire_starter",
+        "bedrock_identifier": "notreepunching:fire_starter",
+        "display_name": "Fire Starter"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/flint_hatchet",
+        "bedrock_identifier": "notreepunching:flint_hatchet",
+        "display_name": "Flint Hatchet"
+      }
+    ],
+    "minecraft:stone_axe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_axe",
+        "bedrock_identifier": "notreepunching:copper_axe",
+        "display_name": "Copper Axe"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_mattock",
+        "bedrock_identifier": "notreepunching:copper_mattock",
+        "display_name": "Copper Mattock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_saw",
+        "bedrock_identifier": "notreepunching:copper_saw",
+        "display_name": "Copper Saw"
+      }
+    ],
+    "minecraft:iron_boots": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_boots",
+        "bedrock_identifier": "notreepunching:copper_boots",
+        "display_name": "Copper Boots"
+      }
+    ],
+    "minecraft:iron_chestplate": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_chestplate",
+        "bedrock_identifier": "notreepunching:copper_chestplate",
+        "display_name": "Copper Chestplate"
+      }
+    ],
+    "minecraft:iron_helmet": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_helmet",
+        "bedrock_identifier": "notreepunching:copper_helmet",
+        "display_name": "Copper Helmet"
+      }
+    ],
+    "minecraft:stone_hoe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_hoe",
+        "bedrock_identifier": "notreepunching:copper_hoe",
+        "display_name": "Copper Hoe"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_mattock",
+        "bedrock_identifier": "notreepunching:copper_mattock",
+        "display_name": "Copper Mattock"
+      }
+    ],
+    "minecraft:stone_sword": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_knife",
+        "bedrock_identifier": "notreepunching:copper_knife",
+        "display_name": "Copper Knife"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_sword",
+        "bedrock_identifier": "notreepunching:copper_sword",
+        "display_name": "Copper Sword"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/macuahuitl",
+        "bedrock_identifier": "notreepunching:macuahuitl",
+        "display_name": "Macuahuitl"
+      }
+    ],
+    "minecraft:iron_leggings": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_leggings",
+        "bedrock_identifier": "notreepunching:copper_leggings",
+        "display_name": "Copper Leggings"
+      }
+    ],
+    "minecraft:stone_shovel": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_mattock",
+        "bedrock_identifier": "notreepunching:copper_mattock",
+        "display_name": "Copper Mattock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_shovel",
+        "bedrock_identifier": "notreepunching:copper_shovel",
+        "display_name": "Copper Shovel"
+      }
+    ],
+    "minecraft:stone_pickaxe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_mattock",
+        "bedrock_identifier": "notreepunching:copper_mattock",
+        "display_name": "Copper Mattock"
+      },
+      
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/copper_pickaxe",
+        "bedrock_identifier": "notreepunching:copper_pickaxe",
+        "display_name": "Copper Pickaxe"
+      }
+    ],
+    "minecraft:diamond_sword": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/diamond_knife",
+        "bedrock_identifier": "notreepunching:diamond_knife",
+        "display_name": "Diamond Knife"
+      }
+    ],
+    "minecraft:diamond_axe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/diamond_mattock",
+        "bedrock_identifier": "notreepunching:diamond_mattock",
+        "display_name": "Diamond Mattock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/diamond_saw",
+        "bedrock_identifier": "notreepunching:diamond_saw",
+        "display_name": "Diamond Saw"
+      }
+    ],
+    "minecraft:wooden_hoe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/flint_hoe",
+        "bedrock_identifier": "notreepunching:flint_hoe",
+        "display_name": "Flint Hoe"
+      }
+    ],
+    "minecraft:wooden_sword": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/flint_knife",
+        "bedrock_identifier": "notreepunching:flint_knife",
+        "display_name": "Flint Knife"
+      }
+    ],
+    "minecraft:wooden_pickaxe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/flint_pickaxe",
+        "bedrock_identifier": "notreepunching:flint_pickaxe",
+        "display_name": "Flint Pickaxe"
+      }
+    ],
+    "minecraft:wooden_shovel": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/flint_shovel",
+        "bedrock_identifier": "notreepunching:flint_shovel",
+        "display_name": "Flint Shovel"
+      }
+    ],
+    "minecraft:golden_sword": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/golden_knife",
+        "bedrock_identifier": "notreepunching:golden_knife",
+        "display_name": "Golden Knife"
+      }
+    ],
+    "minecraft:netherite_axe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/netherite_mattock",
+        "bedrock_identifier": "notreepunching:netherite_mattock",
+        "display_name": "Netherite Mattock"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/netherite_saw",
+        "bedrock_identifier": "notreepunching:netherite_saw",
+        "display_name": "Netherite Saw"
+      }
+    ],
+    "minecraft:netherite_sword": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/netherite_knife",
+        "bedrock_identifier": "notreepunching:netherite_knife",
+        "display_name": "Netherite Knife"
+      }   
+    ],
+    "minecraft:flint_and_steel": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/matchbox",
+        "bedrock_identifier": "notreepunching:matchbox",
+        "display_name": "Matchbox"
+      }
+    ],
+    "minecraft:iron_axe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/iron_saw",
+        "bedrock_identifier": "notreepunching:iron_saw",
+        "display_name": "Iron Saw"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/iron_mattock",
+        "bedrock_identifier": "notreepunching:iron_mattock",
+        "display_name": "Iron Mattock"
+      }      
+    ],
+    "minecraft:golden_axe": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/golden_saw",
+        "bedrock_identifier": "notreepunching:golden_saw",
+        "display_name": "Golden Saw"
+      },
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/golden_mattock",
+        "bedrock_identifier": "notreepunching:golden_mattock",
+        "display_name": "Golden Mattock"
+      }
+    ],
+    "minecraft:iron_sword": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/iron_knife",
+        "bedrock_identifier": "notreepunching:iron_knife",
+        "display_name": "Iron Knife"
+      }    
+    ],
+    "minecraft:string": [
+      {
+        "type": "definition",
+        "model": "realisticsurvival:notreepunching/plant_string",
+        "bedrock_identifier": "notreepunching:plant_string",
+        "display_name": "Plant String"
+      }
+    ]
+  }
+}

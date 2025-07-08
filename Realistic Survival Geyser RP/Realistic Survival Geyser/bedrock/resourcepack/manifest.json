@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "GeyserMC Realistic Survival Resourcepack",
+		"description": "Geyser RL Resourcepack",
+		"uuid": "db400ae5-65d0-4b37-87e8-4d6dad0c1f1c",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"description": "Pack",
+			"type": "resources",
+			"uuid": "000991e4-1d7f-42a7-9254-913f507dc863",
+			"version": [0, 0, 1]
+		}
+	]
+}
